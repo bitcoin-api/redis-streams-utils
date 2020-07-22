@@ -1,0 +1,27 @@
+{
+  "name": "redis-streams-utils",
+  "version": "1.0.0",
+  "description": "Redis Streams Utils",
+  "main": "streams/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitcoin-api/redis-streams-utils.git"
+  },
+  "keywords": [
+    "redis",
+    "streams",
+    "utils"
+  ],
+  "author": "Michael Stecky-Efantis",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/bitcoin-api/redis-streams-utils/issues"
+  },
+  "homepage": "https://github.com/bitcoin-api/redis-streams-utils#readme",
+  "dependencies": {
+    "do-redis-request": "^1.0.5"
+  }
+}
