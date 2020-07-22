@@ -2,7 +2,7 @@
   "name": "redis-streams-utils",
   "version": "1.0.0",
   "description": "Redis Streams Utils",
-  "main": "streams/index.js",
+  "main": "redisStreamsUtils/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
