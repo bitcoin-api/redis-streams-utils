@@ -1,6 +1,6 @@
 # redis-streams-utils
 
-[![npm version](https://badge.fury.io/js/redis-streams-utils.svg)](https://badge.fury.io/js/redis-streams-utils)
+[![npm version](https://badge.fury.io/js/%40bitcoin-api.io%2Fredis-streams-utils.svg)](https://badge.fury.io/js/%40bitcoin-api.io%2Fredis-streams-utils)
 
 Redis Streams Utils
 
