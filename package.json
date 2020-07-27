@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/bitcoin-api/redis-streams-utils#readme",
   "dependencies": {
-    "do-redis-request": "^1.0.5"
+    "do-redis-request": "^1.0.6"
   }
 }
