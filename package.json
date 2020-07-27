@@ -23,5 +23,15 @@
   "homepage": "https://github.com/bitcoin-api/redis-streams-utils#readme",
   "dependencies": {
     "do-redis-request": "^1.0.6"
-  }
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/bitcoin-api"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/bitcoinapi"
+    }
+  ]
 }
