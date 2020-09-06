@@ -1,6 +1,6 @@
 {
-  "name": "@bitcoin-api.io/redis-streams-utils",
-  "version": "1.0.3",
+  "name": "@bitcoin-api/redis-streams-utils",
+  "version": "1.0.0",
   "description": "Redis Streams Utils",
   "main": "redisStreamsUtils/index.js",
   "scripts": {
